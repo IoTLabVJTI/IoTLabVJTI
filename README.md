@@ -1,5 +1,8 @@
 👋 Hi, Welcome to @IoTLabVJTI! 
 
+Please find our virtual home here: https://iotlabvjti.github.io 
+Our YouTube Channel for showcasing our fun, interesting projects: https://www.youtube.com/channel/UCqv3_j4sgxAvVStD9XWendg 
+
 A state of the art IoT (Internet of Things) lab and alongside a curriculum supported by industry on IoT. 
 The vision for this world class lab was set by EE HOD Prof Rohin Daruwala and his team. 
 The alumni of the batch of Electrical engineering 89 have decided to fund the setup of this lab along with the VJTI alumni association. 
